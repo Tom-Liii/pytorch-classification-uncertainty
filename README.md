@@ -148,6 +148,11 @@ Example of how to train the network:
 ```shell
 python main.py --train --dropout --uncertainty --mse --epochs 50
 ```
+Example of how to train the network (EDL implementation):
+
+```shell
+python main.py --train 1 --dropout --uncertainty 1 --mse 1 --epochs 50
+```
 
 
 Example of how to test the network:
