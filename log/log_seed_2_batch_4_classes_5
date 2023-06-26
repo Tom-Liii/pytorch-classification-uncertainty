@@ -1,0 +1,12 @@
+[00:37:32.065] Namespace(train=1, test=False, examples=False, epochs=500, train_batch_size=4, val_batch_size=1, num_classes=5, dropout=False, uncertainty=0, seed=2, mse=0, digamma=0, log=0)
+[00:38:32.935] Train Epoch:0 loss: 0.5755 dice: 0.3674 ece: 0.3425 mi: 0.0544
+[00:38:50.919] Test Epoch:0 loss: 0.4888 dice: 0.2647 ece 0.5783 mi: 0.0700
+[00:38:50.920] -------------------------------------------
+[00:39:47.372] Train Epoch:1 loss: 0.5239 dice: 0.4108 ece: 0.3408 mi: 0.0642
+[00:40:05.708] Test Epoch:1 loss: 0.4321 dice: 0.3852 ece 0.4760 mi: 0.0976
+[00:40:05.709] -------------------------------------------
+[00:41:01.532] Train Epoch:2 loss: 0.4949 dice: 0.4362 ece: 0.3312 mi: 0.0640
+[00:41:19.798] Test Epoch:2 loss: 0.3877 dice: 0.3877 ece 0.3280 mi: 0.0781
+[00:41:19.798] -------------------------------------------
+[00:42:15.779] Train Epoch:3 loss: 0.4685 dice: 0.4542 ece: 0.3096 mi: 0.0598
+[15:52:20.511] Namespace(digamma=0, dropout=False, epochs=500, examples=True, log=0, mse=0, num_classes=5, seed=2, test=False, train=1, train_batch_size=4, uncertainty=0, val_batch_size=1)

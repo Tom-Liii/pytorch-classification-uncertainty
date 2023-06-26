@@ -1,0 +1,2 @@
+[00:50:29.902] Namespace(digamma=0, dropout=False, epochs=500, examples=False, log=0, mse=0, num_classes=5, seed=5, test=False, train=1, train_batch_size=4, uncertainty=0, val_batch_size=1)
+[00:52:31.307] Namespace(digamma=0, dropout=False, epochs=500, examples=False, log=0, mse=0, num_classes=5, seed=5, test=False, train=1, train_batch_size=4, uncertainty=0, val_batch_size=1)
