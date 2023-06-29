@@ -154,6 +154,12 @@ Example of how to train the network (EDL implementation):
 python main.py --train 1 --dropout --uncertainty 1 --mse 1 --epochs 50
 ```
 
+Example of how to perform prediction on the network (EDL implementation):
+
+```shell
+python make_prediction.py --predict 1 --dropout --uncertainty 1 --mse 1 --epochs 1
+```
+
 
 Example of how to test the network:
 
